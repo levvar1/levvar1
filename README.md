@@ -23,6 +23,6 @@
 
 ![](github-metrics.svg)
 
-![](https://vercel.app)(https://github.com)
+[![GitHub Stats](https://vercel.app)](https://github.com)
 
 <div>
