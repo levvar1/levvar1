@@ -23,6 +23,12 @@
 
 ![](github-metrics.svg)
 
-[![GitHub Stats](https://vercel.app)](https://github.com)
+<h2 align="center">Git Stats</h2>
+
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="45%" />
+  
+
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="94%" />
 
 <div>
