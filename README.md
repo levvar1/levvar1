@@ -29,13 +29,14 @@
 
 <h2 align="center">Git Stats</h2>
 
-<h2 align="center">📅 My Activity</h2>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=levvar1&theme=react-dark&hide_border=true&area=true)
-
 <img src="https://streak-stats.demolab.com?user=levvar1&theme=dark&background=000000" />
 
-
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
 ![](github-metrics.svg)
 
