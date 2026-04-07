@@ -21,6 +21,13 @@
 
 <h2 align ="center">My Stats </h2>
 
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
 ![](github-metrics.svg)
 
 <h2 align="center">Git Stats</h2>
