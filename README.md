@@ -22,18 +22,16 @@
 <h2 align ="center">My Stats </h2>
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+<img src="https://vercel.app" width="400" />
+<img src="https://vercel.app" width="300" />
 </p>
 
-![](github-metrics.svg)
-
+### My Activity
 
 ![snake gif](https://githubusercontent.com)
 
-<h2 align="center">Git Stats</h2>
+![](github-metrics.svg)
 
+<h2 align="center">Git Stats</h2>
 
 <div>
