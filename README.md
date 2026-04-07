@@ -28,13 +28,15 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=levvar1&theme=react-dark&hide_border=true&area=true)
 
+<h2 align="center"My activity</h2>
+
+![Snake animation](https://raw.githubusercontent.com/levvar1/levvar1/output/github-contribution-grid-snake-dark.svg)
+
 <h2 align="center">Git Stats</h2>
 
 <img src="https://streak-stats.demolab.com?user=levvar1&theme=dark&background=000000" />
 
-<h2 align="center"My activity</h2>
 
-![Snake animation](https://raw.githubusercontent.com/levvar1/levvar1/output/github-contribution-grid-snake-dark.svg)
 
 
 
