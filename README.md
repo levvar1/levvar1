@@ -27,6 +27,16 @@
 
 ![Snake animation](https://raw.githubusercontent.com/levvar1/levvar1/output/github-contribution-grid-snake-dark.svg)
 
+<p align="center">
+  <sub>First contribution: <b>Mar 5, 2025</b> | Last contribution: <b>Apr 8, 2025</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📅_Total_Days-89-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥_Current_Streak-2_days-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐_Longest_Streak-3_days-green?style=flat-square" />
+</p>
+
 <h2 align="center">Git Stats</h2>
 
 <img src="https://streak-stats.demolab.com?user=levvar1&theme=dark&background=000000" />
