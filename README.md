@@ -30,6 +30,8 @@
 
 ![](github-metrics.svg)
 
+![snake gif](https://githubusercontent.com)
+
 <h2 align="center">Git Stats</h2>
 
 
