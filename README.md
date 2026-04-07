@@ -25,12 +25,5 @@
 
 <h2 align="center">Git Stats</h2>
 
-![Godot](https://shields.io)
-
-![GDScript](https://shields.io)
-
-![C#](https://shields.io)
-
-![HTML5](https://shields.io)
 
 <div>
