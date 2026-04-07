@@ -21,7 +21,7 @@
 
 <h2 align="center">My Stats</h2>
 
-![Snake animation](https://github.com/твой-никнейм/твой-никнейм/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/levvar1/levvar1/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center">Git Stats</h2>
 
