@@ -33,6 +33,5 @@
 
 ![](github-metrics.svg)
 
-<h2 align="center">Git Stats</h2>
 
 <div>
