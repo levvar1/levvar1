@@ -29,6 +29,9 @@
 
 <h2 align="center">Git Stats</h2>
 
+<h2 align="center">📅 My Activity</h2>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=levvar1&theme=react-dark&hide_border=true&area=true)
 
 <img src="https://streak-stats.demolab.com?user=levvar1&theme=dark&background=000000" />
 
