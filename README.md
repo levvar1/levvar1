@@ -21,14 +21,7 @@
 
 <h2 align="center">My Stats</h2>
 
-<p align="center">
-  <img src="https://vercel.app" width="400" />
-  <img src="https://vercel.app" width="300" />
-</p>
-
-### My Activity
-
-![snake gif](https://githubusercontent.com)
+![Snake animation](https://github.com/твой-никнейм/твой-никнейм/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center">Git Stats</h2>
 
