@@ -19,16 +19,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
 
-<h2 align ="center">My Stats </h2>
+<h2 align="center">My Stats</h2>
 
-<p align="left">
-<img src="https://vercel.app" width="400" />
-<img src="https://vercel.app" width="300" />
+<p align="center">
+  <img src="https://vercel.app" width="400" />
+  <img src="https://vercel.app" width="300" />
 </p>
 
 ### My Activity
 
 ![snake gif](https://githubusercontent.com)
+
+<h2 align="center">Git Stats</h2>
+
+<p align="center">
+  <img src="https://herokuapp.com" />
+</p>
 
 ![](github-metrics.svg)
 
