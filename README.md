@@ -28,7 +28,9 @@
 ![Snake animation](https://raw.githubusercontent.com/levvar1/levvar1/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="center">📅 Contribution Dates</h3>
+
 ![GitHub Calendar](https://github-readme-stats.vercel.app/api/calendar?username=levvar1&theme=dark&bg_color=000000&text_color=ffffff)
+
 <h2 align="center">Git Stats</h2>
 
 <img src="https://streak-stats.demolab.com?user=levvar1&theme=dark&background=000000" />
