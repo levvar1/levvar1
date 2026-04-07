@@ -29,7 +29,7 @@
 
 <h3 align="center">📅 Contribution Dates</h3>
 
-![GitHub Calendar](https://github-readme-stats.vercel.app/api/calendar?username=levvar1&theme=dark&bg_color=000000&text_color=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=levvar1&theme=react-dark&hide_border=true&area=true)
 
 <h2 align="center">Git Stats</h2>
 
