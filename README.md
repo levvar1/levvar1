@@ -30,7 +30,7 @@
 <h2 align="center">Git Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=levvar1&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff" />
-  <img src="https://streak-stats.demolab.com?user=levvar1&theme=dark&background=000000" />
+<img src="https://streak-stats.demolab.com?user=levvar1&theme=dark&background=000000" />
 
 
 ![](github-metrics.svg)
